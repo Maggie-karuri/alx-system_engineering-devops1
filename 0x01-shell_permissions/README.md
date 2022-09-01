@@ -1,0 +1,1 @@
+su -l betty switches the current user to betty. user betty will be asked for a passwordwhich will be entered on the terminal to log in as the user. This changes the user allowing betty to run system commands. The executable directories and path to files changes.
